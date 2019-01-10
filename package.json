@@ -11,7 +11,11 @@
     "url": "git+https://github.com/DaltonHart/Abbreviate-Number-NPM.git"
   },
   "keywords": [
-    "npm"
+    "npm",
+    "number",
+    "conversion",
+    "shorten",
+    "string",
   ],
   "author": "dalton hart daltonhart.j@gmail.com",
   "license": "MIT",
