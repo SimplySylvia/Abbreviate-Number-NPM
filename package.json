@@ -1,0 +1,22 @@
+{
+  "name": "abbreviatenumber",
+  "version": "1.0.0",
+  "description": "A package to turn numbers into shortened strings based on the amount of decimal points available",
+  "main": "abbrNum.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DaltonHart/Abbreviate-Number-NPM.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "dalton hart daltonvaren@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DaltonHart/Abbreviate-Number-NPM/issues"
+  },
+  "homepage": "https://github.com/DaltonHart/Abbreviate-Number-NPM#readme"
+}
