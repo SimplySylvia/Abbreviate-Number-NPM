@@ -1,6 +1,6 @@
 {
   "name": "abbr-number-to-string",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A package to turn numbers into shortened strings based on the amount of decimal points available. 1200 to 1.2k",
   "main": "abbrNum.js",
   "scripts": {
