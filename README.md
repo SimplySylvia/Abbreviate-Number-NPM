@@ -13,7 +13,7 @@ abbrNum(2942345,1) will become 2.9M
 abbrNum(9876234987,3) will become 9.876B
 
 Installation: 
-```js
+```bash
 npm i abbr-number-to-string --save
 ```
 
