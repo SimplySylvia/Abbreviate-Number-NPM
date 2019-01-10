@@ -1,5 +1,5 @@
 {
-  "name": "abbreviatenumber",
+  "name": "abbreviate-number",
   "version": "1.0.0",
   "description": "A package to turn numbers into shortened strings based on the amount of decimal points available",
   "main": "abbrNum.js",
