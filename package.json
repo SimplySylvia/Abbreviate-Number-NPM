@@ -1,5 +1,5 @@
 {
-  "name": "abbreviate-number",
+  "name": "abbr-number-to-string",
   "version": "1.0.0",
   "description": "A package to turn numbers into shortened strings based on the amount of decimal points available",
   "main": "abbrNum.js",
@@ -13,7 +13,7 @@
   "keywords": [
     "npm"
   ],
-  "author": "dalton hart daltonvaren@gmail.com",
+  "author": "dalton hart daltonhart.j@gmail.com",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/DaltonHart/Abbreviate-Number-NPM/issues"
