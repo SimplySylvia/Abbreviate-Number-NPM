@@ -2,7 +2,7 @@
 
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
 [![npm version](https://badge.fury.io/js/abbr-number-to-string.svg)](https://www.npmjs.com/package/abbr-number-to-string)
-[![Build Status](https://travis-ci.com/DaltonHart/Abbreviate-Number-NPM.svg?branch=master)](https://travis-ci.com/DaltonHart/Abbreviate-Number-NPM)
+[![Build Status](https://travis-ci.com/DaltonHart/Abbreviate-Number-NPM.svg?branch=master)](https://travis-ci.com/DaltonHart/Abbreviate-Number-NPM) [![Greenkeeper badge](https://badges.greenkeeper.io/DaltonHart/Abbreviate-Number-NPM.svg)](https://greenkeeper.io/)
 
 A simple package to convert number data types into an abbreviated string. It takes in two arguments: the number to convert and the amount of decimal places you would like to round up to. 
 
